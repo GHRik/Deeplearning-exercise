@@ -73,7 +73,7 @@ Parametric learning from non-parametric learning is that in parametric we have a
 #### Supervised Parametric, how it works?
 1. Prediction - As it was written before. We have two inputs. Dates for housing prices from 2000-2010 and we want to obtain housing prices from 2011. We are introducing
 data from 2000-2009 and we want to get 2010 on the result. Using 2000-2009 data our algorithm tries to predict prices from 2010.
-2. Comparing with the pattern - Swoje przewidywania porównuje z cenami z 2010, jeżeli przewidział dobrze lub przewidział źle wprowadza dane do modelu
+2. Comparing with the pattern - He compares his predictions with the prices from 2010, if he predicts well or wrongly enters the data into the mode
 3. Model learning - At this point, the algorithm sets which of the given criteria have the greatest impact on the price of apartments, whether it is a floor, or maybe the date of construction, etc. With such a ready model it is able to predict prices for 2011
 
 #### Unsupervised Parametric
