@@ -92,7 +92,7 @@ In README you will see:
 2. for more difficult examples: how it works
 3. for more difficult examples, results
 
-first_neural_network - calculate prediction from one weight and with one output
-weightsOneOutput - calculate prediction from 3weights and with one output
-weightsMoreOutput - calculate prediction from 3weights and 3outputs
+first_neural_network - calculate prediction from one weight and with one output<br />
+weightsOneOutput - calculate prediction from 3weights and with one output<br />
+weightsMoreOutput - calculate prediction from 3weights and 3outputs<br />
 
